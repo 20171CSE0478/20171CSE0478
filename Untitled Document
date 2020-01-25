@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY DOCUMENT</title>
+</head>
+<body bgcolor="orange">
+<center>
+<h1>SIZE 1</h1>
+<h2>SIZE 1</h2>
+<h3>SIZE 1</h3>
+<hr/>
+<h4>SIZE 1</h4>
+<h5>SIZE 1</h5>
+<h6>SIZE 1</h6>
+<br/>
+<center>
+<pre>
+   <h2 style="color:red;">HELLOW WORLD</h2>
+   <p align="center">text1</p>
+</pre>
+
+</body>
+</html>
+
