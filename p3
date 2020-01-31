@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>tables</title>
+</head>
+<body>
+<h2 align="center"> TABLES</h2>
+<table align="center" border="none" bordercolor="maroon" bgcolor="lightblue" cellspacing="7" cellpadding="10">
+<caption><u>FOOD DETAILS</u></caption>
+ <tr>
+  <th>NAME</th>
+  <th style="color:red;">APPLE</th>
+  <th style="color:orange;">ORANGE</th>
+  <th style="color:green;">GRAPES</th>
+ </tr>
+ <tr>
+  <td><b>RAMESH</b></td>
+  <td align="center">1</td>
+  <td align="center">1</td>
+  <td align="center">2</td>
+ </tr>
+ <tr>
+  <td><b>SURESH</b></td>
+  <td align="center">6</td>
+  <td align="center">5</td>
+  <td align="center">4</td>
+ </tr>
+</table>
+</body>
+</html>
