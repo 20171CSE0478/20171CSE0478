@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nested Lists</title>
+</head>
+<body>
+<h2> LIST</h2>
+<ol >
+ <li>CSE
+ <ul type="square">
+  <li>6th sem</li>
+  <li>4th sem</il>
+ </ul>
+ </li>
+ <li>ISE
+ <ul>
+  <li>3rd sem</li>
+  <li>4th sem</li>
+ </ul>
+ </li>
+</ol>
+ 
+
+</body>
+</html>
