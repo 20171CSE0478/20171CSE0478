@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lists</title>
+</head>
+<body>
+<h2>UNORDERED LIST</h2>
+<ul>
+ <li>coffee</li>
+ <li>tea</li>
+</ul>
+<h2>ORDERED LIST</h2>
+<ol>
+ <li>coffee</li>
+ <li>tea</li>
+</ol>
+<h2>DEFINITION LIST</h2>
+<dl>
+ <dt>HTML</dt>
+  <dd>-Hyper text markup language</dd>
+ <dt>DOG</dt>
+  <dd>-Man's best friend</dd>
+</dl>
+</body>
+</html>
