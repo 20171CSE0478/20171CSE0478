@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sample1</title>
+</head>
+<body bgcolor="pink">
+<h1 align="center">Submission Status</h1><br>
+<hr>
+
+<p><i><b>Assignment Submission is successful<br>The grades will be</b></i></p>
+<p align="right">Be<strike>negative</strike>positive</p>
+<p align="right"><big>Live</big><small> Life</small></p>
+<p>X<sup>2</sup><sub>3</sub>+Y<sup>2</sup><sub>3</sub></p>
+</body>
+</html>
